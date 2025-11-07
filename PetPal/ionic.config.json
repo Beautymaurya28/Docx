@@ -1,0 +1,7 @@
+{
+  "name": "PetPal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
